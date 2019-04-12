@@ -1,0 +1,529 @@
+Country,Year,Solar_PV
+Australia,2005,0.0607
+Australia,2006,0.0704
+Australia,2007,0.0824
+Australia,2008,0.1046
+Australia,2009,0.1876
+Australia,2010,0.5709
+Australia,2011,1.3769
+Australia,2012,2.4151
+Australia,2013,3.226
+Australia,2014,4.028
+Australia,2015,4.735
+Australia,2016,5.488
+Austria,2005,0.024
+Austria,2006,0.0256
+Austria,2007,0.0287
+Austria,2008,0.0324
+Austria,2009,0.0526
+Austria,2010,0.0955
+Austria,2011,0.1872
+Austria,2012,0.2629
+Austria,2013,0.626
+Austria,2014,0.7853
+Austria,2015,0.923
+Austria,2016,1.077
+Belgium,2005,0.004
+Belgium,2006,0.004
+Belgium,2007,0.0236
+Belgium,2008,0.1085
+Belgium,2009,0.6479
+Belgium,2010,1.0656
+Belgium,2011,2.1054
+Belgium,2012,2.7995
+Belgium,2013,3.0583
+Belgium,2014,3.1527
+Belgium,2015,3.252
+Belgium,2016,3.422
+Bulgaria,2005,0
+Bulgaria,2006,0
+Bulgaria,2007,0.0001
+Bulgaria,2008,0.001
+Bulgaria,2009,0.007
+Bulgaria,2010,0.032
+Bulgaria,2011,0.167
+Bulgaria,2012,1.01
+Bulgaria,2013,1.02
+Bulgaria,2014,1.026
+Bulgaria,2015,1.029
+Bulgaria,2016,1.032
+Canada,2005,0.0168
+Canada,2006,0.0205
+Canada,2007,0.0258
+Canada,2008,0.0327
+Canada,2009,0.0946
+Canada,2010,0.2811
+Canada,2011,0.5583
+Canada,2012,0.827
+Canada,2013,1.2715
+Canada,2014,1.9041
+Canada,2015,2.515
+Canada,2016,2.715
+Chile,2005,0
+Chile,2006,0
+Chile,2007,0
+Chile,2008,0
+Chile,2009,0
+Chile,2010,0
+Chile,2011,0
+Chile,2012,0.002
+Chile,2013,0.015
+Chile,2014,0.218
+Chile,2015,0.848
+Chile,2016,1.603
+China,2005,0.068
+China,2006,0.1302
+China,2007,0.1502
+China,2008,0.1902
+China,2009,0.3502
+China,2010,0.8502
+China,2011,3.5502
+China,2012,6.7502
+China,2013,17.7402
+China,2014,28.3802
+China,2015,43.53
+China,2016,78.07
+Czech Republic,2005,0
+Czech Republic,2006,0
+Czech Republic,2007,0.004
+Czech Republic,2008,0.04
+Czech Republic,2009,0.465
+Czech Republic,2010,1.727
+Czech Republic,2011,1.913
+Czech Republic,2012,2.022
+Czech Republic,2013,2.064
+Czech Republic,2014,2.068
+Czech Republic,2015,2.075
+Czech Republic,2016,2.073
+Denmark,2005,0.0027
+Denmark,2006,0.0029
+Denmark,2007,0.0031
+Denmark,2008,0.0032
+Denmark,2009,0.0046
+Denmark,2010,0.0071
+Denmark,2011,0.0167
+Denmark,2012,0.4077
+Denmark,2013,0.5633
+Denmark,2014,0.6056
+Denmark,2015,0.83
+Denmark,2016,0.9
+Finland,2005,0.0013
+Finland,2006,0.0019
+Finland,2007,0.0024
+Finland,2008,0.0029
+Finland,2009,0.0049
+Finland,2010,0.0069
+Finland,2011,0.0084
+Finland,2012,0.0084
+Finland,2013,0.0084
+Finland,2014,0.011
+Finland,2015,0.015
+Finland,2016,0.02
+France,2005,0.0259
+France,2006,0.0375
+France,2007,0.0755
+France,2008,0.1799
+France,2009,0.3712
+France,2010,1.2093
+France,2011,2.9734
+France,2012,4.0936
+France,2013,4.7477
+France,2014,5.7018
+France,2015,6.571
+France,2016,7.13
+Germany,2005,2.056
+Germany,2006,2.899
+Germany,2007,4.17
+Germany,2008,6.12
+Germany,2009,10.566
+Germany,2010,17.944
+Germany,2011,25.429
+Germany,2012,33.033
+Germany,2013,36.337
+Germany,2014,38.343
+Germany,2015,39.799
+Germany,2016,41.275
+Greece,2005,0.005
+Greece,2006,0.007
+Greece,2007,0.009
+Greece,2008,0.02
+Greece,2009,0.056
+Greece,2010,0.206
+Greece,2011,0.624
+Greece,2012,1.536
+Greece,2013,2.579
+Greece,2014,2.596
+Greece,2015,2.604
+Greece,2016,2.611
+Honduras,2005,0
+Honduras,2006,0
+Honduras,2007,0.003
+Honduras,2008,0.003
+Honduras,2009,0.004
+Honduras,2010,0.004
+Honduras,2011,0.004
+Honduras,2012,0.005
+Honduras,2013,0.005
+Honduras,2014,0.005
+Honduras,2015,0.393
+Honduras,2016,0.414
+Hungary,2005,0
+Hungary,2006,0
+Hungary,2007,0
+Hungary,2008,0.001
+Hungary,2009,0.001
+Hungary,2010,0.002
+Hungary,2011,0.004
+Hungary,2012,0.012
+Hungary,2013,0.035
+Hungary,2014,0.077
+Hungary,2015,0.168
+Hungary,2016,0.225
+India,2005,0.018
+India,2006,0.03
+India,2007,0.031
+India,2008,0.071
+India,2009,0.136
+India,2010,0.177
+India,2011,0.48148
+India,2012,1.17625
+India,2013,2.32
+India,2014,3.062
+India,2015,5.04
+India,2016,9.01
+Israel,2005,0.001
+Israel,2006,0.0013
+Israel,2007,0.0018
+Israel,2008,0.003
+Israel,2009,0.0245
+Israel,2010,0.0701
+Israel,2011,0.1897
+Israel,2012,0.2367
+Israel,2013,0.4807
+Israel,2014,0.6807
+Israel,2015,0.78
+Israel,2016,0.91
+Italy,2005,0.0375
+Italy,2006,0.05
+Italy,2007,0.1202
+Italy,2008,0.4583
+Italy,2009,1.1817
+Italy,2010,3.5037
+Italy,2011,12.8083
+Italy,2012,16.4558
+Italy,2013,18.2022
+Italy,2014,18.6057
+Italy,2015,18.906
+Italy,2016,19.279
+Japan,2005,1.4219
+Japan,2006,1.7085
+Japan,2007,1.9189
+Japan,2008,2.1442
+Japan,2009,2.6272
+Japan,2010,3.6181
+Japan,2011,4.9139
+Japan,2012,6.6317
+Japan,2013,13.5992
+Japan,2014,23.3391
+Japan,2015,34.1505
+Japan,2016,42.75
+Malaysia,2005,0
+Malaysia,2006,0.0055
+Malaysia,2007,0.007
+Malaysia,2008,0.0088
+Malaysia,2009,0.0111
+Malaysia,2010,0.0126
+Malaysia,2011,0.0135
+Malaysia,2012,0.0316
+Malaysia,2013,0.1386
+Malaysia,2014,0.2037
+Malaysia,2015,0.232
+Malaysia,2016,0.286
+Mexico,2005,0.0169
+Mexico,2006,0.0179
+Mexico,2007,0.0189
+Mexico,2008,0.0199
+Mexico,2009,0.0249
+Mexico,2010,0.0289
+Mexico,2011,0.0299
+Mexico,2012,0.0349
+Mexico,2013,0.0659
+Mexico,2014,0.1141
+Mexico,2015,0.17
+Mexico,2016,0.32
+Netherlands,2005,0.0454
+Netherlands,2006,0.0475
+Netherlands,2007,0.0486
+Netherlands,2008,0.0528
+Netherlands,2009,0.0639
+Netherlands,2010,0.0847
+Netherlands,2011,0.1427
+Netherlands,2012,0.3627
+Netherlands,2013,0.7228
+Netherlands,2014,1.1228
+Netherlands,2015,1.575
+Netherlands,2016,2.1
+Norway,2005,0.0073
+Norway,2006,0.0077
+Norway,2007,0.008
+Norway,2008,0.0083
+Norway,2009,0.0087
+Norway,2010,0.0091
+Norway,2011,0.0095
+Norway,2012,0.01
+Norway,2013,0.0106
+Norway,2014,0.0128
+Norway,2015,0.0157
+Norway,2016,0.0267
+Other Africa,2005,0.020105882
+Other Africa,2006,0.037423529
+Other Africa,2007,0.061
+Other Africa,2008,0.077
+Other Africa,2009,0.118
+Other Africa,2010,0.2
+Other Africa,2011,0.264
+Other Africa,2012,0.337
+Other Africa,2013,0.409
+Other Africa,2014,0.484
+Other Africa,2015,0.614
+Other Africa,2016,0.947
+Other Asia Pacific,2005,0.009885294
+Other Asia Pacific,2006,0.021791176
+Other Asia Pacific,2007,0.038
+Other Asia Pacific,2008,0.049
+Other Asia Pacific,2009,0.061
+Other Asia Pacific,2010,0.053
+Other Asia Pacific,2011,0.119
+Other Asia Pacific,2012,0.168
+Other Asia Pacific,2013,0.229
+Other Asia Pacific,2014,0.326
+Other Asia Pacific,2015,0.485
+Other Asia Pacific,2016,0.677
+Other Europe & Eurasia,2005,0.025
+Other Europe & Eurasia,2006,0.025
+Other Europe & Eurasia,2007,0.027
+Other Europe & Eurasia,2008,0.03
+Other Europe & Eurasia,2009,0.037
+Other Europe & Eurasia,2010,0.052
+Other Europe & Eurasia,2011,0.12
+Other Europe & Eurasia,2012,0.271
+Other Europe & Eurasia,2013,0.453
+Other Europe & Eurasia,2014,0.627
+Other Europe & Eurasia,2015,0.839
+Other Europe & Eurasia,2016,0.974
+Other Middle East,2005,0
+Other Middle East,2006,0
+Other Middle East,2007,0
+Other Middle East,2008,0.002
+Other Middle East,2009,0.011
+Other Middle East,2010,0.013
+Other Middle East,2011,0.014
+Other Middle East,2012,0.039
+Other Middle East,2013,0.075
+Other Middle East,2014,0.115
+Other Middle East,2015,0.173
+Other Middle East,2016,0.51
+Other South & Central America,2005,0.002108824
+Other South & Central America,2006,0.009685294
+Other South & Central America,2007,0.02
+Other South & Central America,2008,0.027
+Other South & Central America,2009,0.049
+Other South & Central America,2010,0.1
+Other South & Central America,2011,0.147
+Other South & Central America,2012,0.295
+Other South & Central America,2013,0.397
+Other South & Central America,2014,0.531
+Other South & Central America,2015,0.787
+Other South & Central America,2016,0.97
+Pakistan,2005,0
+Pakistan,2006,0
+Pakistan,2007,0
+Pakistan,2008,0
+Pakistan,2009,0
+Pakistan,2010,0
+Pakistan,2011,0
+Pakistan,2012,0
+Pakistan,2013,0.0455
+Pakistan,2014,0.119
+Pakistan,2015,0.778
+Pakistan,2016,0.978
+Philippines,2005,0
+Philippines,2006,0.001
+Philippines,2007,0.001
+Philippines,2008,0.001
+Philippines,2009,0.001
+Philippines,2010,0.0123
+Philippines,2011,0.0143
+Philippines,2012,0.0162
+Philippines,2013,0.021
+Philippines,2014,0.022
+Philippines,2015,0.144
+Philippines,2016,0.9
+Portugal,2005,0.002
+Portugal,2006,0.004
+Portugal,2007,0.015
+Portugal,2008,0.056
+Portugal,2009,0.099
+Portugal,2010,0.134
+Portugal,2011,0.175
+Portugal,2012,0.244
+Portugal,2013,0.299
+Portugal,2014,0.416
+Portugal,2015,0.455
+Portugal,2016,0.513
+Romania,2005,0
+Romania,2006,0
+Romania,2007,0
+Romania,2008,0
+Romania,2009,0
+Romania,2010,0
+Romania,2011,0.001
+Romania,2012,0.041
+Romania,2013,0.761
+Romania,2014,1.293
+Romania,2015,1.326
+Romania,2016,1.372
+Slovakia,2005,0
+Slovakia,2006,0
+Slovakia,2007,0
+Slovakia,2008,0
+Slovakia,2009,0
+Slovakia,2010,0.019
+Slovakia,2011,0.496
+Slovakia,2012,0.513
+Slovakia,2013,0.533
+Slovakia,2014,0.533
+Slovakia,2015,0.533
+Slovakia,2016,0.54
+South Africa,2005,0.016
+South Africa,2006,0.0165
+South Africa,2007,0.017
+South Africa,2008,0.018
+South Africa,2009,0.02
+South Africa,2010,0.023
+South Africa,2011,0.067
+South Africa,2012,0.072
+South Africa,2013,0.28
+South Africa,2014,1.034
+South Africa,2015,1.039
+South Africa,2016,1.544
+South Korea,2005,0.0135
+South Korea,2006,0.0358
+South Korea,2007,0.0812
+South Korea,2008,0.3569
+South Korea,2009,0.5237
+South Korea,2010,0.6503
+South Korea,2011,0.7292
+South Korea,2012,1.0243
+South Korea,2013,1.555
+South Korea,2014,2.4813
+South Korea,2015,3.5
+South Korea,2016,4.35
+Spain,2005,0.0552
+Spain,2006,0.1668
+Spain,2007,0.7778
+Spain,2008,3.8292
+Spain,2009,3.8483
+Spain,2010,4.3297
+Spain,2011,4.7918
+Spain,2012,5.1041
+Spain,2013,5.3538
+Spain,2014,5.3764
+Spain,2015,5.435
+Spain,2016,5.49
+Sweden,2005,0.0042
+Sweden,2006,0.0049
+Sweden,2007,0.0063
+Sweden,2008,0.0079
+Sweden,2009,0.0088
+Sweden,2010,0.0115
+Sweden,2011,0.0158
+Sweden,2012,0.0241
+Sweden,2013,0.0432
+Sweden,2014,0.0794
+Sweden,2015,0.115
+Sweden,2016,0.175
+Switzerland,2005,0.0271
+Switzerland,2006,0.0297
+Switzerland,2007,0.0362
+Switzerland,2008,0.0479
+Switzerland,2009,0.0736
+Switzerland,2010,0.1108
+Switzerland,2011,0.2109
+Switzerland,2012,0.4372
+Switzerland,2013,0.7562
+Switzerland,2014,1.0612
+Switzerland,2015,1.39
+Switzerland,2016,1.64
+Taiwan,2005,0
+Taiwan,2006,0
+Taiwan,2007,0.002
+Taiwan,2008,0.006
+Taiwan,2009,0.01
+Taiwan,2010,0.022
+Taiwan,2011,0.118
+Taiwan,2012,0.223
+Taiwan,2013,0.392
+Taiwan,2014,0.62
+Taiwan,2015,0.842
+Taiwan,2016,1.21
+Thailand,2005,0.0236
+Thailand,2006,0.0302
+Thailand,2007,0.0322
+Thailand,2008,0.0331
+Thailand,2009,0.0429
+Thailand,2010,0.0489
+Thailand,2011,0.2424
+Thailand,2012,0.3876
+Thailand,2013,0.8238
+Thailand,2014,1.2985
+Thailand,2015,1.424
+Thailand,2016,2.15
+Turkey,2005,0.002
+Turkey,2006,0.0025
+Turkey,2007,0.003
+Turkey,2008,0.0037
+Turkey,2009,0.0047
+Turkey,2010,0.0057
+Turkey,2011,0.0067
+Turkey,2012,0.0117
+Turkey,2013,0.0177
+Turkey,2014,0.0577
+Turkey,2015,0.248
+Turkey,2016,0.832
+Ukraine,2005,0
+Ukraine,2006,0
+Ukraine,2007,0
+Ukraine,2008,0
+Ukraine,2009,0
+Ukraine,2010,0.003
+Ukraine,2011,0.188
+Ukraine,2012,0.371
+Ukraine,2013,0.748
+Ukraine,2014,0.819
+Ukraine,2015,0.839
+Ukraine,2016,0.938
+United Kingdom,2005,0.0107
+United Kingdom,2006,0.0141
+United Kingdom,2007,0.0179
+United Kingdom,2008,0.0239
+United Kingdom,2009,0.0309
+United Kingdom,2010,0.095577698
+United Kingdom,2011,0.996460802
+United Kingdom,2012,1.771386727
+United Kingdom,2013,2.897156473
+United Kingdom,2014,5.493461633
+United Kingdom,2015,9.687634904
+United Kingdom,2016,11.72673974
+United States,2005,0.19
+United States,2006,0.295
+United States,2007,0.455
+United States,2008,0.753
+United States,2009,1.188
+United States,2010,2.04
+United States,2011,3.959
+United States,2012,7.328
+United States,2013,12.079
+United States,2014,18.317
+United States,2015,25.57
+United States,2016,40.3
